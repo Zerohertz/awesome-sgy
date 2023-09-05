@@ -22,10 +22,10 @@
   <h2> :computer: IT 산업기능요원 :computer: </h2>
 </summary>
   <div align="center">
-    <img src="prop/MS/위치.png">
-    <img src="prop/MS/지방청.png">
-    <img src="prop/MS/TOP_30_현역_편입인원.png">
-    <img src="prop/MS/TOP_30_현역_복무인원.png">
+    <img src="prop/IT/위치.png">
+    <img src="prop/IT/지방청.png">
+    <img src="prop/IT/TOP_30_현역_편입인원.png">
+    <img src="prop/IT/TOP_30_현역_복무인원.png">
     </br>
     <a href="https://github.com/Zerohertz/awesome-sgy/blob/main/prop/IT/README.md"> :pencil: 표로 보기 :pencil: </a>
   </div>

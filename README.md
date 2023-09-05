@@ -24,8 +24,8 @@
   <div align="center">
     <img src="prop/IT/위치.png">
     <img src="prop/IT/지방청.png">
-    <img src="prop/IT/TOP_30_현역_편입인원.png">
-    <img src="prop/IT/TOP_30_현역_복무인원.png">
+    <img src="prop/IT/TOP_30_복무인원.png">
+    <img src="prop/IT/TOP_30_편입인원.png">
     </br>
     <a href="https://github.com/Zerohertz/awesome-sgy/blob/main/prop/IT/README.md"> :pencil: 표로 보기 :pencil: </a>
   </div>
@@ -39,7 +39,7 @@
     <img src="prop/ALL/업종.png">
     <img src="prop/ALL/위치.png">
     <img src="prop/ALL/지방청.png">
-    <img src="prop/ALL/TOP_30_현역_편입인원.png">
-    <img src="prop/ALL/TOP_30_현역_복무인원.png">
+    <img src="prop/ALL/TOP_30_복무인원.png">
+    <img src="prop/ALL/TOP_30_편입인원.png">
   </div>
 </details>

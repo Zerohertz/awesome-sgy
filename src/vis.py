@@ -160,14 +160,14 @@ class vis_data:
             bars_l = plt.barh(
                 self.ranked_data_new["업체명"][:top][::-1],
                 self.ranked_data_new["현역 편입인원"][:top][::-1],
-                color=colors[0],
+                color=colors[1],
                 zorder=2,
                 label="현역 편입인원",
             )
             bars_r = plt.barh(
                 self.ranked_data_new["업체명"][:top][::-1],
                 self.ranked_data_new["보충역 편입인원"][:top][::-1],
-                color=colors[-1],
+                color=colors[2],
                 zorder=2,
                 left=self.ranked_data_new["현역 편입인원"][:top][::-1],
                 label="보충역 편입인원",

@@ -68,16 +68,16 @@ class vis_data:
         plt.rcParams["font.size"] = 15
         plt.rcParams["font.family"] = "Do Hyeon"
         self.color_hist = {
-            "보충역 편입인원": "#8080ff",
+            "보충역 편입인원": "#6060ff",
             "보충역 복무인원": "#c0c0f0",
-            "현역 편입인원": "#ff8080",
+            "현역 편입인원": "#ff6060",
             "현역 복무인원": "#f0c0c0",
         }
         self.color_plot = {
             "보충역 편입인원": "#c0c0f0",
-            "보충역 복무인원": "#8080ff",
+            "보충역 복무인원": "#6060ff",
             "현역 편입인원": "#f0c0c0",
-            "현역 복무인원": "#ff8080",
+            "현역 복무인원": "#ff6060",
         }
 
     def time_tsv(self):

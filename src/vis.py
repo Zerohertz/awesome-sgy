@@ -67,11 +67,17 @@ class vis_data:
         ]
         plt.rcParams["font.size"] = 15
         plt.rcParams["font.family"] = "Do Hyeon"
-        self.color = {
+        self.color_hist = {
             "보충역 편입인원": "#8080ff",
             "보충역 복무인원": "#c0c0f0",
             "현역 편입인원": "#ff8080",
             "현역 복무인원": "#f0c0c0",
+        }
+        self.color_plot = {
+            "보충역 편입인원": "#c0c0f0",
+            "보충역 복무인원": "#8080ff",
+            "현역 편입인원": "#f0c0c0",
+            "현역 복무인원": "#ff8080",
         }
 
     def time_tsv(self):
@@ -134,21 +140,21 @@ class vis_data:
             bars_l = plt.barh(
                 self.ranked_data_org["업체명"][:top][::-1],
                 self.ranked_data_org["현역 복무인원"][:top][::-1],
-                color=self.color["현역 복무인원"],
+                color=self.color_hist["현역 복무인원"],
                 zorder=2,
                 label="현역 복무인원",
             )
             plt.barh(
                 self.ranked_data_org["업체명"][:top][::-1],
                 self.ranked_data_org["현역 편입인원"][:top][::-1],
-                color=self.color["현역 편입인원"],
+                color=self.color_hist["현역 편입인원"],
                 zorder=2,
                 label="현역 편입인원",
             )
             bars_r = plt.barh(
                 self.ranked_data_org["업체명"][:top][::-1],
                 self.ranked_data_org["보충역 복무인원"][:top][::-1],
-                color=self.color["보충역 복무인원"],
+                color=self.color_hist["보충역 복무인원"],
                 zorder=2,
                 left=self.ranked_data_org["현역 복무인원"][:top][::-1],
                 label="보충역 복무인원",
@@ -156,7 +162,7 @@ class vis_data:
             plt.barh(
                 self.ranked_data_org["업체명"][:top][::-1],
                 self.ranked_data_org["보충역 편입인원"][:top][::-1],
-                color=self.color["보충역 편입인원"],
+                color=self.color_hist["보충역 편입인원"],
                 zorder=2,
                 left=self.ranked_data_org["현역 복무인원"][:top][::-1],
                 label="보충역 편입인원",
@@ -165,14 +171,14 @@ class vis_data:
             bars_l = plt.barh(
                 self.ranked_data_new["업체명"][:top][::-1],
                 self.ranked_data_new["현역 편입인원"][:top][::-1],
-                color=self.color["현역 편입인원"],
+                color=self.color_hist["현역 편입인원"],
                 zorder=2,
                 label="현역 편입인원",
             )
             bars_r = plt.barh(
                 self.ranked_data_new["업체명"][:top][::-1],
                 self.ranked_data_new["보충역 편입인원"][:top][::-1],
-                color=self.color["보충역 편입인원"],
+                color=self.color_hist["보충역 편입인원"],
                 zorder=2,
                 left=self.ranked_data_new["현역 편입인원"][:top][::-1],
                 label="보충역 편입인원",
@@ -251,7 +257,7 @@ class vis_data:
         plt.plot(
             x,
             y4,
-            color=self.color["현역 복무인원"],
+            color=self.color_plot["현역 복무인원"],
             linestyle="-.",
             linewidth=2,
             marker="v",
@@ -261,7 +267,7 @@ class vis_data:
         plt.plot(
             x,
             y3,
-            color=self.color["현역 편입인원"],
+            color=self.color_plot["현역 편입인원"],
             linestyle="--",
             linewidth=2,
             marker="o",
@@ -271,7 +277,7 @@ class vis_data:
         plt.plot(
             x,
             y2,
-            color=self.color["보충역 복무인원"],
+            color=self.color_plot["보충역 복무인원"],
             linestyle="-.",
             linewidth=2,
             marker="v",
@@ -281,7 +287,7 @@ class vis_data:
         plt.plot(
             x,
             y1,
-            color=self.color["보충역 편입인원"],
+            color=self.color_plot["보충역 편입인원"],
             linestyle="--",
             linewidth=2,
             marker="o",

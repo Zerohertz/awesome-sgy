@@ -43,3 +43,7 @@
     <img src="prop/ALL/TOP_30_편입인원.png">
   </div>
 </details>
+
+---
+
++ [awesome-alternative-military-service](https://github.com/sesang06/awesome-alternative-military-service)

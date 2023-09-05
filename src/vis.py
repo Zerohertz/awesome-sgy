@@ -144,7 +144,7 @@ class vis_data:
                 )
                 for name, a, b, c in self.ranked_data_org.values:
                     f.writelines(
-                        f"|[{name}](https://github.com/Zerohertz/awesome-jmy/blob/main/prop/time/{name.replace('(', '').replace(')', '').replace('/', '').replace(' ', '')}.png)|{a}|{b}|{c}|\n"
+                        f"|[{name}](https://github.com/Zerohertz/awesome-sgy/blob/main/prop/time/{name.replace('(', '').replace(')', '').replace('/', '').replace(' ', '')}.png)|{a}|{b}|{c}|\n"
                     )
             else:
                 f.writelines(
@@ -152,7 +152,7 @@ class vis_data:
                 )
                 for name, a, b, c in self.ranked_data_org.values[:top]:
                     f.writelines(
-                        f"|[{name}](https://github.com/Zerohertz/awesome-jmy/blob/main/prop/time/{name.replace('(', '').replace(')', '').replace('/', '').replace(' ', '')}.png)|{a}|{b}|{c}|\n"
+                        f"|[{name}](https://github.com/Zerohertz/awesome-sgy/blob/main/prop/time/{name.replace('(', '').replace(')', '').replace('/', '').replace(' ', '')}.png)|{a}|{b}|{c}|\n"
                     )
             f.writelines("\n</div>")
 

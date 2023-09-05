@@ -67,6 +67,12 @@ class vis_data:
         ]
         plt.rcParams["font.size"] = 15
         plt.rcParams["font.family"] = "Do Hyeon"
+        self.color = {
+            "보충역 편입인원": "#8080ff",
+            "보충역 복무인원": "#c0c0f0",
+            "현역 편입인원": "#ff8080",
+            "현역 복무인원": "#f0c0c0",
+        }
 
     def time_tsv(self):
         print("WRITE TIME SERIES TSV")
@@ -124,26 +130,25 @@ class vis_data:
         print("PLOT RANK:\t", by)
         plt.figure(figsize=(10, int(0.6 * top)))
         plt.grid(zorder=0)
-        colors = sns.color_palette("coolwarm", n_colors=4)
         if by == "복무인원":
             bars_l = plt.barh(
                 self.ranked_data_org["업체명"][:top][::-1],
                 self.ranked_data_org["현역 복무인원"][:top][::-1],
-                color=colors[0],
+                color=self.color["현역 복무인원"],
                 zorder=2,
                 label="현역 복무인원",
             )
             plt.barh(
                 self.ranked_data_org["업체명"][:top][::-1],
                 self.ranked_data_org["현역 편입인원"][:top][::-1],
-                color=colors[1],
+                color=self.color["현역 편입인원"],
                 zorder=2,
                 label="현역 편입인원",
             )
             bars_r = plt.barh(
                 self.ranked_data_org["업체명"][:top][::-1],
                 self.ranked_data_org["보충역 복무인원"][:top][::-1],
-                color=colors[3],
+                color=self.color["보충역 복무인원"],
                 zorder=2,
                 left=self.ranked_data_org["현역 복무인원"][:top][::-1],
                 label="보충역 복무인원",
@@ -151,7 +156,7 @@ class vis_data:
             plt.barh(
                 self.ranked_data_org["업체명"][:top][::-1],
                 self.ranked_data_org["보충역 편입인원"][:top][::-1],
-                color=colors[2],
+                color=self.color["보충역 편입인원"],
                 zorder=2,
                 left=self.ranked_data_org["현역 복무인원"][:top][::-1],
                 label="보충역 편입인원",
@@ -160,14 +165,14 @@ class vis_data:
             bars_l = plt.barh(
                 self.ranked_data_new["업체명"][:top][::-1],
                 self.ranked_data_new["현역 편입인원"][:top][::-1],
-                color=colors[1],
+                color=self.color["현역 편입인원"],
                 zorder=2,
                 label="현역 편입인원",
             )
             bars_r = plt.barh(
                 self.ranked_data_new["업체명"][:top][::-1],
                 self.ranked_data_new["보충역 편입인원"][:top][::-1],
-                color=colors[2],
+                color=self.color["보충역 편입인원"],
                 zorder=2,
                 left=self.ranked_data_new["현역 편입인원"][:top][::-1],
                 label="보충역 편입인원",
@@ -245,28 +250,18 @@ class vis_data:
         plt.ylabel("인원 [명]")
         plt.plot(
             x,
-            y1,
-            color="#ff9090",
-            linestyle="--",
-            linewidth=2,
-            marker="o",
-            markersize=12,
-            label="보충역 편입인원",
-        )
-        plt.plot(
-            x,
-            y2,
-            color="#ff0000",
+            y4,
+            color=self.color["현역 복무인원"],
             linestyle="-.",
             linewidth=2,
             marker="v",
             markersize=12,
-            label="보충역 복무인원",
+            label="현역 복무인원",
         )
         plt.plot(
             x,
             y3,
-            color="#0000ff",
+            color=self.color["현역 편입인원"],
             linestyle="--",
             linewidth=2,
             marker="o",
@@ -275,13 +270,23 @@ class vis_data:
         )
         plt.plot(
             x,
-            y4,
-            color="#9090ff",
+            y2,
+            color=self.color["보충역 복무인원"],
             linestyle="-.",
             linewidth=2,
             marker="v",
             markersize=12,
-            label="현역 복무인원",
+            label="보충역 복무인원",
+        )
+        plt.plot(
+            x,
+            y1,
+            color=self.color["보충역 편입인원"],
+            linestyle="--",
+            linewidth=2,
+            marker="o",
+            markersize=12,
+            label="보충역 편입인원",
         )
         ax.yaxis.set_major_locator(MaxNLocator(integer=True))
         try:

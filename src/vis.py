@@ -212,7 +212,6 @@ if __name__ == "__main__":
 
     # ----- NOTE: [IT 산업기능요원] ----- #
     vd = vis_data(file_name, data, 1)
-    vd.time_tsv()
     vd.pie_hist("지방청", 3)
     vd.pie_hist("위치", 2)
     vd.rank_vis("현역 복무인원")

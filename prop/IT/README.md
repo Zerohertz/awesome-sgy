@@ -14,15 +14,16 @@
 |[주식회사스캐터랩](https://github.com/Zerohertz/awesome-sgy/blob/main/prop/time/주식회사스캐터랩.png)|734|0|4|0|0|7|
 |[(주)채널코퍼레이션](https://github.com/Zerohertz/awesome-sgy/blob/main/prop/time/주채널코퍼레이션.png)|734|3|6|0|2|4|
 |[베이글코드](https://github.com/Zerohertz/awesome-sgy/blob/main/prop/time/베이글코드.png)|734|2|8|1|0|2|
-|[아우토크립트(주)](https://github.com/Zerohertz/awesome-sgy/blob/main/prop/time/아우토크립트주.png)|734|5|6|2|4|4|
+|[아우토크립트(주)](https://github.com/Zerohertz/awesome-sgy/blob/main/prop/time/아우토크립트주.png)|734|5|6|3|4|4|
 |[위메이드](https://github.com/Zerohertz/awesome-sgy/blob/main/prop/time/위메이드.png)|1216|10|10|0|0|0|
 |[아틀라스네트웍스](https://github.com/Zerohertz/awesome-sgy/blob/main/prop/time/아틀라스네트웍스.png)|734|2|3|1|1|6|
 |[(주)스틸리언](https://github.com/Zerohertz/awesome-sgy/blob/main/prop/time/주스틸리언.png)|734|3|5|0|1|3|
-|[(주)제노임펙트](https://github.com/Zerohertz/awesome-sgy/blob/main/prop/time/주제노임펙트.png)|734|2|2|1|3|6|
+|[(주)제노임펙트](https://github.com/Zerohertz/awesome-sgy/blob/main/prop/time/주제노임펙트.png)|734|2|2|2|3|6|
 |[데브시스터즈(주)](https://github.com/Zerohertz/awesome-sgy/blob/main/prop/time/데브시스터즈주.png)|734|1|2|0|1|6|
 |[씨알에스큐브](https://github.com/Zerohertz/awesome-sgy/blob/main/prop/time/씨알에스큐브.png)|734|0|4|2|2|4|
 |[주식회사 버킷플레이스](https://github.com/Zerohertz/awesome-sgy/blob/main/prop/time/주식회사버킷플레이스.png)|734|0|6|0|0|2|
 |[주식회사 씨앤에이아이](https://github.com/Zerohertz/awesome-sgy/blob/main/prop/time/주식회사씨앤에이아이.png)|734|1|6|1|1|2|
+|[(주)게임스프링](https://github.com/Zerohertz/awesome-sgy/blob/main/prop/time/주게임스프링.png)|734|3|5|0|1|2|
 |[(주)블루데이타시스템즈](https://github.com/Zerohertz/awesome-sgy/blob/main/prop/time/주블루데이타시스템즈.png)|734|4|6|0|0|1|
 |[(주)소프트파워](https://github.com/Zerohertz/awesome-sgy/blob/main/prop/time/주소프트파워.png)|0|5|5|0|0|2|
 |[(주)아도스](https://github.com/Zerohertz/awesome-sgy/blob/main/prop/time/주아도스.png)|734|2|5|0|0|2|
@@ -35,7 +36,6 @@
 |[인더포레스트](https://github.com/Zerohertz/awesome-sgy/blob/main/prop/time/인더포레스트.png)|734|3|4|2|2|3|
 |[주식회사셀메이트](https://github.com/Zerohertz/awesome-sgy/blob/main/prop/time/주식회사셀메이트.png)|734|4|6|0|0|1|
 |[(유)아홉](https://github.com/Zerohertz/awesome-sgy/blob/main/prop/time/유아홉.png)|734|3|4|0|0|2|
-|[(주)게임스프링](https://github.com/Zerohertz/awesome-sgy/blob/main/prop/time/주게임스프링.png)|734|3|5|0|0|1|
 |[(주)더스윙](https://github.com/Zerohertz/awesome-sgy/blob/main/prop/time/주더스윙.png)|0|0|2|0|0|4|
 |[(주)모두싸인](https://github.com/Zerohertz/awesome-sgy/blob/main/prop/time/주모두싸인.png)|734|1|3|1|1|3|
 |[(주)보라스카이](https://github.com/Zerohertz/awesome-sgy/blob/main/prop/time/주보라스카이.png)|1216|2|5|0|0|1|
@@ -45,6 +45,7 @@
 |[(주)퍼니글루](https://github.com/Zerohertz/awesome-sgy/blob/main/prop/time/주퍼니글루.png)|734|1|4|0|1|2|
 |[(주)피플펀드컴퍼니](https://github.com/Zerohertz/awesome-sgy/blob/main/prop/time/주피플펀드컴퍼니.png)|734|2|5|1|1|1|
 |[드제이](https://github.com/Zerohertz/awesome-sgy/blob/main/prop/time/드제이.png)|734|0|3|1|1|3|
+|[주식회사아이아라](https://github.com/Zerohertz/awesome-sgy/blob/main/prop/time/주식회사아이아라.png)|734|6|6|0|0|0|
 |[(주)시프트업](https://github.com/Zerohertz/awesome-sgy/blob/main/prop/time/주시프트업.png)|734|2|3|0|0|2|
 |[(주)엔디씨에스](https://github.com/Zerohertz/awesome-sgy/blob/main/prop/time/주엔디씨에스.png)|1216|2|4|1|1|1|
 |[(주)엘리스 서울강남2지점](https://github.com/Zerohertz/awesome-sgy/blob/main/prop/time/주엘리스서울강남2지점.png)|734|1|3|0|0|2|
@@ -59,10 +60,10 @@
 |[(주)픽소](https://github.com/Zerohertz/awesome-sgy/blob/main/prop/time/주픽소.png)|734|1|2|0|0|3|
 |[㈜로드컴플릿](https://github.com/Zerohertz/awesome-sgy/blob/main/prop/time/㈜로드컴플릿.png)|1216|1|2|1|1|3|
 |[리디(주)](https://github.com/Zerohertz/awesome-sgy/blob/main/prop/time/리디주.png)|734|0|2|0|1|3|
-|[솔트웨어(주)](https://github.com/Zerohertz/awesome-sgy/blob/main/prop/time/솔트웨어주.png)|734|1|1|1|1|4|
+|[매스프레소](https://github.com/Zerohertz/awesome-sgy/blob/main/prop/time/매스프레소.png)|734|0|1|0|1|4|
+|[솔트웨어(주)](https://github.com/Zerohertz/awesome-sgy/blob/main/prop/time/솔트웨어주.png)|734|1|1|4|1|4|
 |[온오프믹스](https://github.com/Zerohertz/awesome-sgy/blob/main/prop/time/온오프믹스.png)|734|2|5|0|0|0|
 |[주식회사누아](https://github.com/Zerohertz/awesome-sgy/blob/main/prop/time/주식회사누아.png)|734|1|3|0|0|2|
-|[주식회사아이아라](https://github.com/Zerohertz/awesome-sgy/blob/main/prop/time/주식회사아이아라.png)|734|5|5|0|0|0|
 |[지뉴소프트](https://github.com/Zerohertz/awesome-sgy/blob/main/prop/time/지뉴소프트.png)|734|3|3|1|1|2|
 |[파인브이티](https://github.com/Zerohertz/awesome-sgy/blob/main/prop/time/파인브이티.png)|1216|0|3|1|1|2|
 |[호스트센터(주)](https://github.com/Zerohertz/awesome-sgy/blob/main/prop/time/호스트센터주.png)|734|4|4|0|0|1|
@@ -74,6 +75,7 @@
 |[(주)마이다스인](https://github.com/Zerohertz/awesome-sgy/blob/main/prop/time/주마이다스인.png)|1216|0|1|1|1|3|
 |[(주)미디어솔루션](https://github.com/Zerohertz/awesome-sgy/blob/main/prop/time/주미디어솔루션.png)|734|3|4|0|0|0|
 |[(주)발트루스트](https://github.com/Zerohertz/awesome-sgy/blob/main/prop/time/주발트루스트.png)|1216|3|3|1|1|1|
+|[(주)보이저엑스](https://github.com/Zerohertz/awesome-sgy/blob/main/prop/time/주보이저엑스.png)|734|2|3|0|0|1|
 |[(주)센드버드코리아](https://github.com/Zerohertz/awesome-sgy/blob/main/prop/time/주센드버드코리아.png)|734|1|1|0|0|3|
 |[(주)슈퍼캣](https://github.com/Zerohertz/awesome-sgy/blob/main/prop/time/주슈퍼캣.png)|1216|0|2|0|1|2|
 |[(주)아우름플래닛](https://github.com/Zerohertz/awesome-sgy/blob/main/prop/time/주아우름플래닛.png)|734|1|3|0|0|1|
@@ -90,17 +92,16 @@
 |[(주)카펜스트리트](https://github.com/Zerohertz/awesome-sgy/blob/main/prop/time/주카펜스트리트.png)|734|1|2|0|0|2|
 |[(주)코라이즈테크놀로지](https://github.com/Zerohertz/awesome-sgy/blob/main/prop/time/주코라이즈테크놀로지.png)|734|3|3|0|0|1|
 |[(주)파이랩테크놀로지](https://github.com/Zerohertz/awesome-sgy/blob/main/prop/time/주파이랩테크놀로지.png)|734|2|3|0|0|1|
-|[(주)프라이빗노트](https://github.com/Zerohertz/awesome-sgy/blob/main/prop/time/주프라이빗노트.png)|734|1|2|1|1|2|
+|[(주)프라이빗노트](https://github.com/Zerohertz/awesome-sgy/blob/main/prop/time/주프라이빗노트.png)|734|1|2|2|1|2|
 |[(주)헥슬란트](https://github.com/Zerohertz/awesome-sgy/blob/main/prop/time/주헥슬란트.png)|734|3|4|0|0|0|
 |[㈜퍼즐몬스터즈](https://github.com/Zerohertz/awesome-sgy/blob/main/prop/time/㈜퍼즐몬스터즈.png)|734|1|1|0|1|3|
 |[두나무(주)](https://github.com/Zerohertz/awesome-sgy/blob/main/prop/time/두나무주.png)|0|0|2|0|0|2|
-|[매스프레소](https://github.com/Zerohertz/awesome-sgy/blob/main/prop/time/매스프레소.png)|734|0|1|0|0|3|
+|[몬드리안에이아이](https://github.com/Zerohertz/awesome-sgy/blob/main/prop/time/몬드리안에이아이.png)|1063|2|3|0|0|1|
 |[버즈빌](https://github.com/Zerohertz/awesome-sgy/blob/main/prop/time/버즈빌.png)|734|2|4|0|0|0|
 |[삼정데이타서비스(주)](https://github.com/Zerohertz/awesome-sgy/blob/main/prop/time/삼정데이타서비스주.png)|734|0|0|2|2|4|
 |[알투소프트](https://github.com/Zerohertz/awesome-sgy/blob/main/prop/time/알투소프트.png)|636|1|2|0|0|2|
 |[에이치아이티주식회사](https://github.com/Zerohertz/awesome-sgy/blob/main/prop/time/에이치아이티주식회사.png)|1216|0|0|2|2|4|
 |[위플래닛](https://github.com/Zerohertz/awesome-sgy/blob/main/prop/time/위플래닛.png)|734|1|1|0|0|3|
-|[이쓰리](https://github.com/Zerohertz/awesome-sgy/blob/main/prop/time/이쓰리.png)|734|1|2|2|2|2|
 |[주식회사 썬더소프트코리아 ](https://github.com/Zerohertz/awesome-sgy/blob/main/prop/time/주식회사썬더소프트코리아.png)|1216|1|1|2|2|3|
 |[주식회사디앤디랩](https://github.com/Zerohertz/awesome-sgy/blob/main/prop/time/주식회사디앤디랩.png)|0|0|0|0|0|4|
 |[주식회사몰로코](https://github.com/Zerohertz/awesome-sgy/blob/main/prop/time/주식회사몰로코.png)|734|2|2|0|2|2|
@@ -117,13 +118,13 @@
 |[(주)나루아이](https://github.com/Zerohertz/awesome-sgy/blob/main/prop/time/주나루아이.png)|734|0|1|1|1|2|
 |[(주)나인코퍼레이션](https://github.com/Zerohertz/awesome-sgy/blob/main/prop/time/주나인코퍼레이션.png)|734|0|1|0|1|2|
 |[(주)노리코리아](https://github.com/Zerohertz/awesome-sgy/blob/main/prop/time/주노리코리아.png)|734|2|2|0|0|1|
+|[(주)누리랩](https://github.com/Zerohertz/awesome-sgy/blob/main/prop/time/주누리랩.png)|734|2|2|0|0|1|
 |[(주)도구공간](https://github.com/Zerohertz/awesome-sgy/blob/main/prop/time/주도구공간.png)|734|1|2|0|0|1|
 |[(주)라포랩스](https://github.com/Zerohertz/awesome-sgy/blob/main/prop/time/주라포랩스.png)|734|0|0|0|0|3|
 |[(주)리틀송뮤직](https://github.com/Zerohertz/awesome-sgy/blob/main/prop/time/주리틀송뮤직.png)|734|0|0|1|1|3|
 |[(주)매그넘빈트](https://github.com/Zerohertz/awesome-sgy/blob/main/prop/time/주매그넘빈트.png)|734|0|0|0|0|3|
 |[(주)미르니](https://github.com/Zerohertz/awesome-sgy/blob/main/prop/time/주미르니.png)|734|2|2|1|1|1|
 |[(주)미리디](https://github.com/Zerohertz/awesome-sgy/blob/main/prop/time/주미리디.png)|734|1|1|1|1|2|
-|[(주)보이저엑스](https://github.com/Zerohertz/awesome-sgy/blob/main/prop/time/주보이저엑스.png)|734|1|2|0|0|1|
 |[(주)브레이브모바일](https://github.com/Zerohertz/awesome-sgy/blob/main/prop/time/주브레이브모바일.png)|734|2|2|0|0|1|
 |[(주)비전인사이드](https://github.com/Zerohertz/awesome-sgy/blob/main/prop/time/주비전인사이드.png)|734|0|3|0|0|0|
 |[(주)비케이에스엔피](https://github.com/Zerohertz/awesome-sgy/blob/main/prop/time/주비케이에스엔피.png)|734|1|3|0|0|0|
@@ -134,9 +135,9 @@
 |[(주)스포카](https://github.com/Zerohertz/awesome-sgy/blob/main/prop/time/주스포카.png)|734|0|1|1|1|2|
 |[(주)신성ICT](https://github.com/Zerohertz/awesome-sgy/blob/main/prop/time/주신성ICT.png)|1063|0|0|2|3|3|
 |[(주)씨피랩스](https://github.com/Zerohertz/awesome-sgy/blob/main/prop/time/주씨피랩스.png)|1216|1|1|1|1|2|
-|[(주)아이티언](https://github.com/Zerohertz/awesome-sgy/blob/main/prop/time/주아이티언.png)|1216|1|2|0|0|1|
+|[(주)아이티언](https://github.com/Zerohertz/awesome-sgy/blob/main/prop/time/주아이티언.png)|1216|1|2|2|0|1|
 |[(주)아침소프트](https://github.com/Zerohertz/awesome-sgy/blob/main/prop/time/주아침소프트.png)|1216|1|1|1|1|2|
-|[(주)아카에이아이](https://github.com/Zerohertz/awesome-sgy/blob/main/prop/time/주아카에이아이.png)|734|0|2|1|1|1|
+|[(주)아카에이아이](https://github.com/Zerohertz/awesome-sgy/blob/main/prop/time/주아카에이아이.png)|734|0|2|2|1|1|
 |[(주)알로하팩토리](https://github.com/Zerohertz/awesome-sgy/blob/main/prop/time/주알로하팩토리.png)|734|0|2|0|0|1|
 |[(주)에듀토셀](https://github.com/Zerohertz/awesome-sgy/blob/main/prop/time/주에듀토셀.png)|0|3|3|0|0|0|
 |[(주)에이블리코퍼레이션](https://github.com/Zerohertz/awesome-sgy/blob/main/prop/time/주에이블리코퍼레이션.png)|734|0|0|0|0|3|
@@ -162,17 +163,18 @@
 |[(주)콩스튜디오코리아](https://github.com/Zerohertz/awesome-sgy/blob/main/prop/time/주콩스튜디오코리아.png)|734|2|2|0|0|1|
 |[(주)큐센텍](https://github.com/Zerohertz/awesome-sgy/blob/main/prop/time/주큐센텍.png)|734|1|3|0|0|0|
 |[(주)클라썸](https://github.com/Zerohertz/awesome-sgy/blob/main/prop/time/주클라썸.png)|734|0|1|0|1|2|
-|[(주)팬딩(Fanding)](https://github.com/Zerohertz/awesome-sgy/blob/main/prop/time/주팬딩Fanding.png)|734|1|1|2|2|2|
+|[(주)팬딩(Fanding)](https://github.com/Zerohertz/awesome-sgy/blob/main/prop/time/주팬딩Fanding.png)|734|1|1|3|2|2|
 |[(주)펀앤뉴](https://github.com/Zerohertz/awesome-sgy/blob/main/prop/time/주펀앤뉴.png)|1216|0|1|1|1|2|
 |[(주)페이타랩](https://github.com/Zerohertz/awesome-sgy/blob/main/prop/time/주페이타랩.png)|734|2|3|0|0|0|
 |[(주)페이히어](https://github.com/Zerohertz/awesome-sgy/blob/main/prop/time/주페이히어.png)|734|0|0|1|2|3|
+|[(주)포티투마루](https://github.com/Zerohertz/awesome-sgy/blob/main/prop/time/주포티투마루.png)|734|2|3|0|0|0|
 |[(주)프리윌린](https://github.com/Zerohertz/awesome-sgy/blob/main/prop/time/주프리윌린.png)|734|0|0|0|0|3|
 |[(주)피알앤디컴퍼니](https://github.com/Zerohertz/awesome-sgy/blob/main/prop/time/주피알앤디컴퍼니.png)|734|0|0|0|2|3|
 |[(주)핀다](https://github.com/Zerohertz/awesome-sgy/blob/main/prop/time/주핀다.png)|734|1|1|1|1|2|
 |[(주)하이지노](https://github.com/Zerohertz/awesome-sgy/blob/main/prop/time/주하이지노.png)|1216|0|0|2|1|3|
 |[(주)하이퍼리즘](https://github.com/Zerohertz/awesome-sgy/blob/main/prop/time/주하이퍼리즘.png)|0|0|2|0|0|1|
 |[(주)휴먼플러스](https://github.com/Zerohertz/awesome-sgy/blob/main/prop/time/주휴먼플러스.png)|734|0|1|0|0|2|
-|[(주)휴엔시스템](https://github.com/Zerohertz/awesome-sgy/blob/main/prop/time/주휴엔시스템.png)|734|0|0|1|1|3|
+|[(주)휴엔시스템](https://github.com/Zerohertz/awesome-sgy/blob/main/prop/time/주휴엔시스템.png)|734|0|0|3|1|3|
 |[㈜달콤소프트](https://github.com/Zerohertz/awesome-sgy/blob/main/prop/time/㈜달콤소프트.png)|734|1|1|0|0|2|
 |[㈜소울게임즈](https://github.com/Zerohertz/awesome-sgy/blob/main/prop/time/㈜소울게임즈.png)|1216|3|3|0|0|0|
 |[㈜에이씨케이](https://github.com/Zerohertz/awesome-sgy/blob/main/prop/time/㈜에이씨케이.png)|1216|0|0|1|1|3|
@@ -183,7 +185,6 @@
 |[마인드로직 주식회사](https://github.com/Zerohertz/awesome-sgy/blob/main/prop/time/마인드로직주식회사.png)|734|0|1|1|1|2|
 |[마크애니](https://github.com/Zerohertz/awesome-sgy/blob/main/prop/time/마크애니.png)|734|0|1|1|1|2|
 |[메가존클라우드(주)](https://github.com/Zerohertz/awesome-sgy/blob/main/prop/time/메가존클라우드주.png)|734|1|3|0|0|0|
-|[몬드리안에이아이](https://github.com/Zerohertz/awesome-sgy/blob/main/prop/time/몬드리안에이아이.png)|1063|1|2|0|0|1|
 |[비주얼캠프](https://github.com/Zerohertz/awesome-sgy/blob/main/prop/time/비주얼캠프.png)|734|1|2|0|1|1|
 |[서울소프트](https://github.com/Zerohertz/awesome-sgy/blob/main/prop/time/서울소프트.png)|393|1|3|0|0|0|
 |[소이넷](https://github.com/Zerohertz/awesome-sgy/blob/main/prop/time/소이넷.png)|1216|2|2|1|1|1|
@@ -192,6 +193,7 @@
 |[씨씨알(주)](https://github.com/Zerohertz/awesome-sgy/blob/main/prop/time/씨씨알주.png)|734|0|3|1|0|0|
 |[씨유박스](https://github.com/Zerohertz/awesome-sgy/blob/main/prop/time/씨유박스.png)|0|0|1|0|0|2|
 |[어니언커뮤니케이션즈](https://github.com/Zerohertz/awesome-sgy/blob/main/prop/time/어니언커뮤니케이션즈.png)|1063|2|2|0|0|1|
+|[이쓰리](https://github.com/Zerohertz/awesome-sgy/blob/main/prop/time/이쓰리.png)|734|0|1|2|2|2|
 |[인포벨리코리아](https://github.com/Zerohertz/awesome-sgy/blob/main/prop/time/인포벨리코리아.png)|1216|0|1|0|0|2|
 |[자몽컴퍼니](https://github.com/Zerohertz/awesome-sgy/blob/main/prop/time/자몽컴퍼니.png)|1063|0|0|0|0|3|
 |[제타럭스시스템](https://github.com/Zerohertz/awesome-sgy/blob/main/prop/time/제타럭스시스템.png)|1216|1|3|0|0|0|
@@ -208,15 +210,16 @@
 |[차이엑스 주식회사](https://github.com/Zerohertz/awesome-sgy/blob/main/prop/time/차이엑스주식회사.png)|0|0|0|0|0|3|
 |[콩테크(주)](https://github.com/Zerohertz/awesome-sgy/blob/main/prop/time/콩테크주.png)|1216|1|1|2|2|2|
 |[티쓰리큐 주식회사](https://github.com/Zerohertz/awesome-sgy/blob/main/prop/time/티쓰리큐주식회사.png)|734|2|3|0|0|0|
+|[펜타시큐리티(주)](https://github.com/Zerohertz/awesome-sgy/blob/main/prop/time/펜타시큐리티주.png)|734|3|3|0|0|0|
+|[포인드(주)](https://github.com/Zerohertz/awesome-sgy/blob/main/prop/time/포인드주.png)|795|2|2|0|0|1|
 |[플렉스(주)](https://github.com/Zerohertz/awesome-sgy/blob/main/prop/time/플렉스주.png)|1216|1|1|1|1|2|
 |[(주) 드라마앤컴퍼니](https://github.com/Zerohertz/awesome-sgy/blob/main/prop/time/주드라마앤컴퍼니.png)|734|1|1|0|0|1|
-|[(주)겟차(getcha Co. , Ltd.)](https://github.com/Zerohertz/awesome-sgy/blob/main/prop/time/주겟차getchaCo.,Ltd..png)|734|1|1|1|1|1|
+|[(주)겟차(getcha Co. , Ltd.)](https://github.com/Zerohertz/awesome-sgy/blob/main/prop/time/주겟차getchaCo.,Ltd..png)|734|1|1|2|1|1|
 |[(주)그리드원](https://github.com/Zerohertz/awesome-sgy/blob/main/prop/time/주그리드원.png)|734|1|1|0|1|1|
 |[(주)나딕게임즈](https://github.com/Zerohertz/awesome-sgy/blob/main/prop/time/주나딕게임즈.png)|734|0|0|1|1|2|
 |[(주)네비웍스](https://github.com/Zerohertz/awesome-sgy/blob/main/prop/time/주네비웍스.png)|1216|1|1|3|0|1|
 |[(주)네오위드넷](https://github.com/Zerohertz/awesome-sgy/blob/main/prop/time/주네오위드넷.png)|1216|0|1|1|1|1|
 |[(주)노바코스](https://github.com/Zerohertz/awesome-sgy/blob/main/prop/time/주노바코스.png)|1216|1|1|1|1|1|
-|[(주)누리랩](https://github.com/Zerohertz/awesome-sgy/blob/main/prop/time/주누리랩.png)|734|1|1|0|0|1|
 |[(주)데이터플로](https://github.com/Zerohertz/awesome-sgy/blob/main/prop/time/주데이터플로.png)|734|1|1|0|0|1|
 |[(주)두들린](https://github.com/Zerohertz/awesome-sgy/blob/main/prop/time/주두들린.png)|734|1|1|1|1|1|
 |[(주)드림에이스](https://github.com/Zerohertz/awesome-sgy/blob/main/prop/time/주드림에이스.png)|734|0|1|0|0|1|
@@ -229,7 +232,7 @@
 |[(주)뤼이드](https://github.com/Zerohertz/awesome-sgy/blob/main/prop/time/주뤼이드.png)|734|1|1|1|0|1|
 |[(주)리드포인트시스템](https://github.com/Zerohertz/awesome-sgy/blob/main/prop/time/주리드포인트시스템.png)|233|0|0|1|1|2|
 |[(주)리얼타임테크](https://github.com/Zerohertz/awesome-sgy/blob/main/prop/time/주리얼타임테크.png)|636|2|2|0|0|0|
-|[(주)마이다스아이티](https://github.com/Zerohertz/awesome-sgy/blob/main/prop/time/주마이다스아이티.png)|1216|0|0|1|1|2|
+|[(주)마이다스아이티](https://github.com/Zerohertz/awesome-sgy/blob/main/prop/time/주마이다스아이티.png)|1216|0|0|3|1|2|
 |[(주)메이아이](https://github.com/Zerohertz/awesome-sgy/blob/main/prop/time/주메이아이.png)|734|1|1|0|0|1|
 |[(주)모노리스](https://github.com/Zerohertz/awesome-sgy/blob/main/prop/time/주모노리스.png)|734|0|1|1|1|1|
 |[(주)모비젠](https://github.com/Zerohertz/awesome-sgy/blob/main/prop/time/주모비젠.png)|1216|0|0|1|1|2|
@@ -286,9 +289,10 @@
 |[(주)자버](https://github.com/Zerohertz/awesome-sgy/blob/main/prop/time/주자버.png)|734|1|1|1|1|1|
 |[(주)제이니스](https://github.com/Zerohertz/awesome-sgy/blob/main/prop/time/주제이니스.png)|734|0|1|1|1|1|
 |[(주)조인트리](https://github.com/Zerohertz/awesome-sgy/blob/main/prop/time/주조인트리.png)|372|1|2|0|0|0|
+|[(주)지경솔루텍](https://github.com/Zerohertz/awesome-sgy/blob/main/prop/time/주지경솔루텍.png)|734|2|2|0|0|0|
 |[(주)지오유](https://github.com/Zerohertz/awesome-sgy/blob/main/prop/time/주지오유.png)|1216|0|0|0|0|2|
 |[(주)천명소프트](https://github.com/Zerohertz/awesome-sgy/blob/main/prop/time/주천명소프트.png)|734|0|0|1|1|2|
-|[(주)캐스트이즈](https://github.com/Zerohertz/awesome-sgy/blob/main/prop/time/주캐스트이즈.png)|734|1|1|1|1|1|
+|[(주)캐스트이즈](https://github.com/Zerohertz/awesome-sgy/blob/main/prop/time/주캐스트이즈.png)|734|1|1|2|1|1|
 |[(주)커먼컴퓨터](https://github.com/Zerohertz/awesome-sgy/blob/main/prop/time/주커먼컴퓨터.png)|734|1|2|0|0|0|
 |[(주)코너스](https://github.com/Zerohertz/awesome-sgy/blob/main/prop/time/주코너스.png)|734|1|1|0|0|1|
 |[(주)코드스테이츠](https://github.com/Zerohertz/awesome-sgy/blob/main/prop/time/주코드스테이츠.png)|734|0|0|0|0|2|
@@ -308,7 +312,6 @@
 |[(주)팝콘솔루션](https://github.com/Zerohertz/awesome-sgy/blob/main/prop/time/주팝콘솔루션.png)|734|0|0|1|1|2|
 |[(주)퍼스트코](https://github.com/Zerohertz/awesome-sgy/blob/main/prop/time/주퍼스트코.png)|397|0|2|1|0|0|
 |[(주)페르세우스](https://github.com/Zerohertz/awesome-sgy/blob/main/prop/time/주페르세우스.png)|734|0|1|0|0|1|
-|[(주)포티투마루](https://github.com/Zerohertz/awesome-sgy/blob/main/prop/time/주포티투마루.png)|734|1|2|0|0|0|
 |[(주)플랜아이](https://github.com/Zerohertz/awesome-sgy/blob/main/prop/time/주플랜아이.png)|636|1|1|0|0|1|
 |[(주)플레이링스](https://github.com/Zerohertz/awesome-sgy/blob/main/prop/time/주플레이링스.png)|1216|2|2|0|0|0|
 |[(주)피어테크](https://github.com/Zerohertz/awesome-sgy/blob/main/prop/time/주피어테크.png)|734|1|1|0|1|1|
@@ -316,7 +319,7 @@
 |[(주)한국비즈커넥트](https://github.com/Zerohertz/awesome-sgy/blob/main/prop/time/주한국비즈커넥트.png)|795|0|0|2|2|2|
 |[㈜니트로아이](https://github.com/Zerohertz/awesome-sgy/blob/main/prop/time/㈜니트로아이.png)|1216|1|1|0|1|1|
 |[㈜스토리타코](https://github.com/Zerohertz/awesome-sgy/blob/main/prop/time/㈜스토리타코.png)|0|1|1|0|0|1|
-|[㈜프롬더레드](https://github.com/Zerohertz/awesome-sgy/blob/main/prop/time/㈜프롬더레드.png)|734|0|1|0|0|1|
+|[㈜프롬더레드](https://github.com/Zerohertz/awesome-sgy/blob/main/prop/time/㈜프롬더레드.png)|734|0|1|1|0|1|
 |[공간정보기술㈜](https://github.com/Zerohertz/awesome-sgy/blob/main/prop/time/공간정보기술㈜.png)|1216|1|1|0|0|1|
 |[그린캣소프트(주)](https://github.com/Zerohertz/awesome-sgy/blob/main/prop/time/그린캣소프트주.png)|1216|0|2|0|0|0|
 |[다야몬즈㈜](https://github.com/Zerohertz/awesome-sgy/blob/main/prop/time/다야몬즈㈜.png)|734|0|2|0|0|0|
@@ -343,7 +346,7 @@
 |[아미스테크놀로지(주)](https://github.com/Zerohertz/awesome-sgy/blob/main/prop/time/아미스테크놀로지주.png)|734|1|2|0|0|0|
 |[아이디노](https://github.com/Zerohertz/awesome-sgy/blob/main/prop/time/아이디노.png)|443|2|2|0|0|0|
 |[아이티팜(주)](https://github.com/Zerohertz/awesome-sgy/blob/main/prop/time/아이티팜주.png)|1216|0|0|0|0|2|
-|[에버엑스(주)(EverEx)](https://github.com/Zerohertz/awesome-sgy/blob/main/prop/time/에버엑스주EverEx.png)|734|1|1|1|1|1|
+|[에버엑스(주)(EverEx)](https://github.com/Zerohertz/awesome-sgy/blob/main/prop/time/에버엑스주EverEx.png)|734|1|1|2|1|1|
 |[에스엔비플러스](https://github.com/Zerohertz/awesome-sgy/blob/main/prop/time/에스엔비플러스.png)|734|1|2|0|0|0|
 |[에이비일팔공](https://github.com/Zerohertz/awesome-sgy/blob/main/prop/time/에이비일팔공.png)|734|1|1|0|1|1|
 |[엠비아이솔루션](https://github.com/Zerohertz/awesome-sgy/blob/main/prop/time/엠비아이솔루션.png)|734|0|0|1|1|2|
@@ -354,7 +357,7 @@
 |[조앤소프트](https://github.com/Zerohertz/awesome-sgy/blob/main/prop/time/조앤소프트.png)|1216|0|0|0|0|2|
 |[주식회사 메뉴잇](https://github.com/Zerohertz/awesome-sgy/blob/main/prop/time/주식회사메뉴잇.png)|1063|0|1|1|1|1|
 |[주식회사 아인톱시스템](https://github.com/Zerohertz/awesome-sgy/blob/main/prop/time/주식회사아인톱시스템.png)|734|0|0|1|1|2|
-|[주식회사 위밋모빌리티](https://github.com/Zerohertz/awesome-sgy/blob/main/prop/time/주식회사위밋모빌리티.png)|734|0|0|1|1|2|
+|[주식회사 위밋모빌리티](https://github.com/Zerohertz/awesome-sgy/blob/main/prop/time/주식회사위밋모빌리티.png)|734|0|0|2|1|2|
 |[주식회사 포니이엔티](https://github.com/Zerohertz/awesome-sgy/blob/main/prop/time/주식회사포니이엔티.png)|734|0|1|0|0|1|
 |[주식회사모프인터랙티브](https://github.com/Zerohertz/awesome-sgy/blob/main/prop/time/주식회사모프인터랙티브.png)|734|0|2|0|0|0|
 |[주식회사선도소프트](https://github.com/Zerohertz/awesome-sgy/blob/main/prop/time/주식회사선도소프트.png)|734|0|1|0|0|1|
@@ -367,11 +370,8 @@
 |[지엔터프라이즈 주식회사](https://github.com/Zerohertz/awesome-sgy/blob/main/prop/time/지엔터프라이즈주식회사.png)|734|0|1|1|1|1|
 |[케이에스아이](https://github.com/Zerohertz/awesome-sgy/blob/main/prop/time/케이에스아이.png)|1216|0|0|0|0|2|
 |[케이투웹테크(주)](https://github.com/Zerohertz/awesome-sgy/blob/main/prop/time/케이투웹테크주.png)|734|1|2|0|0|0|
-|[테이블매니저(주)](https://github.com/Zerohertz/awesome-sgy/blob/main/prop/time/테이블매니저주.png)|734|0|1|0|0|1|
 |[트윔](https://github.com/Zerohertz/awesome-sgy/blob/main/prop/time/트윔.png)|1216|0|2|0|0|0|
 |[팀스파르타(주)](https://github.com/Zerohertz/awesome-sgy/blob/main/prop/time/팀스파르타주.png)|734|1|1|1|1|1|
-|[펜타시큐리티(주)](https://github.com/Zerohertz/awesome-sgy/blob/main/prop/time/펜타시큐리티주.png)|734|2|2|0|0|0|
-|[포인드(주)](https://github.com/Zerohertz/awesome-sgy/blob/main/prop/time/포인드주.png)|795|1|1|0|0|1|
 |[하이퍼커넥트 유한책임회사](https://github.com/Zerohertz/awesome-sgy/blob/main/prop/time/하이퍼커넥트유한책임회사.png)|734|0|0|0|0|2|
 |[한솔코에버(주)](https://github.com/Zerohertz/awesome-sgy/blob/main/prop/time/한솔코에버주.png)|734|0|1|0|1|1|
 |[해치랩스주식회사](https://github.com/Zerohertz/awesome-sgy/blob/main/prop/time/해치랩스주식회사.png)|734|0|0|0|0|2|
@@ -379,7 +379,7 @@
 |[휴멜로㈜](https://github.com/Zerohertz/awesome-sgy/blob/main/prop/time/휴멜로㈜.png)|734|1|1|0|0|1|
 |[(주)YH데이타베이스](https://github.com/Zerohertz/awesome-sgy/blob/main/prop/time/주YH데이타베이스.png)|795|0|0|0|0|1|
 |[(주)가비아씨엔에스](https://github.com/Zerohertz/awesome-sgy/blob/main/prop/time/주가비아씨엔에스.png)|1216|0|0|0|0|1|
-|[(주)가온아이](https://github.com/Zerohertz/awesome-sgy/blob/main/prop/time/주가온아이.png)|734|1|1|0|0|0|
+|[(주)가온아이](https://github.com/Zerohertz/awesome-sgy/blob/main/prop/time/주가온아이.png)|734|1|1|1|0|0|
 |[(주)갈라랩](https://github.com/Zerohertz/awesome-sgy/blob/main/prop/time/주갈라랩.png)|1216|0|1|0|0|0|
 |[(주)같다](https://github.com/Zerohertz/awesome-sgy/blob/main/prop/time/주같다.png)|734|0|0|0|0|1|
 |[(주)교림소프트](https://github.com/Zerohertz/awesome-sgy/blob/main/prop/time/주교림소프트.png)|734|0|1|0|0|0|
@@ -408,6 +408,7 @@
 |[(주)루나게임즈](https://github.com/Zerohertz/awesome-sgy/blob/main/prop/time/주루나게임즈.png)|0|1|1|0|0|0|
 |[(주)루나소프트](https://github.com/Zerohertz/awesome-sgy/blob/main/prop/time/주루나소프트.png)|734|0|0|0|0|1|
 |[(주)룰루랩](https://github.com/Zerohertz/awesome-sgy/blob/main/prop/time/주룰루랩.png)|734|0|0|1|1|1|
+|[(주)리눅스데이타시스템](https://github.com/Zerohertz/awesome-sgy/blob/main/prop/time/주리눅스데이타시스템.png)|734|1|1|0|0|0|
 |[(주)리스트](https://github.com/Zerohertz/awesome-sgy/blob/main/prop/time/주리스트.png)|734|0|0|0|0|1|
 |[(주)리체](https://github.com/Zerohertz/awesome-sgy/blob/main/prop/time/주리체.png)|734|0|0|1|1|1|
 |[(주)링크제니시스](https://github.com/Zerohertz/awesome-sgy/blob/main/prop/time/주링크제니시스.png)|1216|0|0|0|0|1|
@@ -452,7 +453,7 @@
 |[(주)시큐리티허브](https://github.com/Zerohertz/awesome-sgy/blob/main/prop/time/주시큐리티허브.png)|734|1|1|0|0|0|
 |[(주)시큐에버](https://github.com/Zerohertz/awesome-sgy/blob/main/prop/time/주시큐에버.png)|734|0|1|0|0|0|
 |[(주)심지](https://github.com/Zerohertz/awesome-sgy/blob/main/prop/time/주심지.png)|443|0|0|1|1|1|
-|[(주)싸이드워크엔터테인먼트](https://github.com/Zerohertz/awesome-sgy/blob/main/prop/time/주싸이드워크엔터테인먼트.png)|734|0|0|1|1|1|
+|[(주)싸이드워크엔터테인먼트](https://github.com/Zerohertz/awesome-sgy/blob/main/prop/time/주싸이드워크엔터테인먼트.png)|734|0|0|2|1|1|
 |[(주)써머스플랫폼](https://github.com/Zerohertz/awesome-sgy/blob/main/prop/time/주써머스플랫폼.png)|0|0|0|0|0|1|
 |[(주)씽크소프트](https://github.com/Zerohertz/awesome-sgy/blob/main/prop/time/주씽크소프트.png)|636|0|0|1|1|1|
 |[(주)아몽소프트웨어](https://github.com/Zerohertz/awesome-sgy/blob/main/prop/time/주아몽소프트웨어.png)|734|0|0|0|0|1|
@@ -491,7 +492,6 @@
 |[(주)여기어때컴퍼니](https://github.com/Zerohertz/awesome-sgy/blob/main/prop/time/주여기어때컴퍼니.png)|734|0|0|0|0|1|
 |[(주)여보야](https://github.com/Zerohertz/awesome-sgy/blob/main/prop/time/주여보야.png)|372|0|0|0|0|1|
 |[(주)예거](https://github.com/Zerohertz/awesome-sgy/blob/main/prop/time/주예거.png)|734|0|0|0|0|1|
-|[(주)옐로에그](https://github.com/Zerohertz/awesome-sgy/blob/main/prop/time/주옐로에그.png)|734|0|0|0|0|1|
 |[(주)오늘앤파트너스](https://github.com/Zerohertz/awesome-sgy/blob/main/prop/time/주오늘앤파트너스.png)|734|0|0|1|1|1|
 |[(주)온앤온정보시스템](https://github.com/Zerohertz/awesome-sgy/blob/main/prop/time/주온앤온정보시스템.png)|734|0|0|0|0|1|
 |[(주)올리브스톤](https://github.com/Zerohertz/awesome-sgy/blob/main/prop/time/주올리브스톤.png)|734|0|0|0|0|1|
@@ -528,7 +528,6 @@
 |[(주)제로웹](https://github.com/Zerohertz/awesome-sgy/blob/main/prop/time/주제로웹.png)|443|0|1|0|0|0|
 |[(주)제이엘케이](https://github.com/Zerohertz/awesome-sgy/blob/main/prop/time/주제이엘케이.png)|734|0|1|0|0|0|
 |[(주)조은아이앤에스](https://github.com/Zerohertz/awesome-sgy/blob/main/prop/time/주조은아이앤에스.png)|734|0|0|0|0|1|
-|[(주)지경솔루텍](https://github.com/Zerohertz/awesome-sgy/blob/main/prop/time/주지경솔루텍.png)|734|1|1|0|0|0|
 |[(주)지엔에이컴퍼니](https://github.com/Zerohertz/awesome-sgy/blob/main/prop/time/주지엔에이컴퍼니.png)|734|0|0|0|1|1|
 |[(주)지인시스템](https://github.com/Zerohertz/awesome-sgy/blob/main/prop/time/주지인시스템.png)|0|0|1|0|0|0|
 |[(주)지후소프트](https://github.com/Zerohertz/awesome-sgy/blob/main/prop/time/주지후소프트.png)|734|0|0|0|0|1|
@@ -564,6 +563,7 @@
 |[(주)팀오투](https://github.com/Zerohertz/awesome-sgy/blob/main/prop/time/주팀오투.png)|734|0|0|0|0|1|
 |[(주)파로스정보통신](https://github.com/Zerohertz/awesome-sgy/blob/main/prop/time/주파로스정보통신.png)|636|0|0|0|0|1|
 |[(주)파이온코퍼레이션](https://github.com/Zerohertz/awesome-sgy/blob/main/prop/time/주파이온코퍼레이션.png)|734|0|0|0|1|1|
+|[(주)파이퀀트](https://github.com/Zerohertz/awesome-sgy/blob/main/prop/time/주파이퀀트.png)|734|1|1|0|0|0|
 |[(주)퍼블리](https://github.com/Zerohertz/awesome-sgy/blob/main/prop/time/주퍼블리.png)|734|1|1|0|0|0|
 |[(주)페이머스워커](https://github.com/Zerohertz/awesome-sgy/blob/main/prop/time/주페이머스워커.png)|734|0|0|0|0|1|
 |[(주)페칭](https://github.com/Zerohertz/awesome-sgy/blob/main/prop/time/주페칭.png)|0|0|0|0|0|1|
@@ -576,10 +576,10 @@
 |[(주)플랜잇헬스케어](https://github.com/Zerohertz/awesome-sgy/blob/main/prop/time/주플랜잇헬스케어.png)|734|0|0|0|0|1|
 |[(주)피르마이노베이션그룹](https://github.com/Zerohertz/awesome-sgy/blob/main/prop/time/주피르마이노베이션그룹.png)|734|0|0|0|0|1|
 |[(주)피플벤처스](https://github.com/Zerohertz/awesome-sgy/blob/main/prop/time/주피플벤처스.png)|734|0|0|0|0|1|
-|[(주)핏펀즈](https://github.com/Zerohertz/awesome-sgy/blob/main/prop/time/주핏펀즈.png)|734|0|0|1|1|1|
+|[(주)핏펀즈](https://github.com/Zerohertz/awesome-sgy/blob/main/prop/time/주핏펀즈.png)|734|0|0|2|1|1|
 |[(주)핑거](https://github.com/Zerohertz/awesome-sgy/blob/main/prop/time/주핑거.png)|734|0|0|1|1|1|
 |[(주)하이컴텍](https://github.com/Zerohertz/awesome-sgy/blob/main/prop/time/주하이컴텍.png)|734|0|1|0|0|0|
-|[(주)한국기업보안](https://github.com/Zerohertz/awesome-sgy/blob/main/prop/time/주한국기업보안.png)|734|0|0|0|0|1|
+|[(주)한국기업보안](https://github.com/Zerohertz/awesome-sgy/blob/main/prop/time/주한국기업보안.png)|734|0|0|1|0|1|
 |[(주)한국아이티컨설팅](https://github.com/Zerohertz/awesome-sgy/blob/main/prop/time/주한국아이티컨설팅.png)|734|1|1|0|0|0|
 |[(주)한국해양기상기술](https://github.com/Zerohertz/awesome-sgy/blob/main/prop/time/주한국해양기상기술.png)|734|1|1|0|0|0|
 |[(주)한컴인스페이스](https://github.com/Zerohertz/awesome-sgy/blob/main/prop/time/주한컴인스페이스.png)|636|0|0|1|1|1|
@@ -609,7 +609,7 @@
 |[리서치이노션](https://github.com/Zerohertz/awesome-sgy/blob/main/prop/time/리서치이노션.png)|734|0|0|1|1|1|
 |[모비두(주)(Mobidoo)](https://github.com/Zerohertz/awesome-sgy/blob/main/prop/time/모비두주Mobidoo.png)|734|1|1|0|0|0|
 |[뮤직카우](https://github.com/Zerohertz/awesome-sgy/blob/main/prop/time/뮤직카우.png)|734|0|0|0|0|1|
-|[브이엠솔루션(주)](https://github.com/Zerohertz/awesome-sgy/blob/main/prop/time/브이엠솔루션주.png)|734|0|0|1|1|1|
+|[브이엠솔루션(주)](https://github.com/Zerohertz/awesome-sgy/blob/main/prop/time/브이엠솔루션주.png)|734|0|0|2|1|1|
 |[블록웨어](https://github.com/Zerohertz/awesome-sgy/blob/main/prop/time/블록웨어.png)|0|0|1|0|0|0|
 |[비브로스](https://github.com/Zerohertz/awesome-sgy/blob/main/prop/time/비브로스.png)|734|0|0|1|1|1|
 |[비트루브](https://github.com/Zerohertz/awesome-sgy/blob/main/prop/time/비트루브.png)|734|0|0|0|0|1|
@@ -646,12 +646,11 @@
 |[온잇코리아 주식회사](https://github.com/Zerohertz/awesome-sgy/blob/main/prop/time/온잇코리아주식회사.png)|734|0|0|0|0|1|
 |[올리브유니온주식회사](https://github.com/Zerohertz/awesome-sgy/blob/main/prop/time/올리브유니온주식회사.png)|0|0|1|0|0|0|
 |[와이피랩스(주)](https://github.com/Zerohertz/awesome-sgy/blob/main/prop/time/와이피랩스주.png)|734|0|0|0|0|1|
-|[원투씨엠 (주)](https://github.com/Zerohertz/awesome-sgy/blob/main/prop/time/원투씨엠주.png)|1216|1|1|0|0|0|
 |[위프코(주)](https://github.com/Zerohertz/awesome-sgy/blob/main/prop/time/위프코주.png)|1216|0|0|1|1|1|
 |[유니원아이앤씨(주)](https://github.com/Zerohertz/awesome-sgy/blob/main/prop/time/유니원아이앤씨주.png)|734|1|1|0|0|0|
 |[이노와이어리스](https://github.com/Zerohertz/awesome-sgy/blob/main/prop/time/이노와이어리스.png)|0|0|0|0|0|1|
 |[인포보스(주)](https://github.com/Zerohertz/awesome-sgy/blob/main/prop/time/인포보스주.png)|734|1|1|0|0|0|
-|[일루넥스](https://github.com/Zerohertz/awesome-sgy/blob/main/prop/time/일루넥스.png)|734|0|0|1|1|1|
+|[일루넥스](https://github.com/Zerohertz/awesome-sgy/blob/main/prop/time/일루넥스.png)|734|0|0|2|1|1|
 |[제이알정보기술(주)](https://github.com/Zerohertz/awesome-sgy/blob/main/prop/time/제이알정보기술주.png)|1216|0|0|0|0|1|
 |[주식회사 그리다에너지](https://github.com/Zerohertz/awesome-sgy/blob/main/prop/time/주식회사그리다에너지.png)|372|0|1|0|0|0|
 |[주식회사 레몬베이스](https://github.com/Zerohertz/awesome-sgy/blob/main/prop/time/주식회사레몬베이스.png)|734|0|0|0|1|1|
@@ -688,7 +687,7 @@
 |[코드잇](https://github.com/Zerohertz/awesome-sgy/blob/main/prop/time/코드잇.png)|734|1|1|0|0|0|
 |[코리아엑스퍼트(주)](https://github.com/Zerohertz/awesome-sgy/blob/main/prop/time/코리아엑스퍼트주.png)|734|1|1|0|0|0|
 |[코어시큐리티](https://github.com/Zerohertz/awesome-sgy/blob/main/prop/time/코어시큐리티.png)|734|0|1|0|0|0|
-|[클라우드브릭](https://github.com/Zerohertz/awesome-sgy/blob/main/prop/time/클라우드브릭.png)|734|0|1|0|0|0|
+|[테이블매니저(주)](https://github.com/Zerohertz/awesome-sgy/blob/main/prop/time/테이블매니저주.png)|734|0|1|0|0|0|
 |[티니스튜디오](https://github.com/Zerohertz/awesome-sgy/blob/main/prop/time/티니스튜디오.png)|1216|0|0|1|1|1|
 |[패킷플레이 주식회사](https://github.com/Zerohertz/awesome-sgy/blob/main/prop/time/패킷플레이주식회사.png)|734|0|0|0|0|1|
 |[페이위드](https://github.com/Zerohertz/awesome-sgy/blob/main/prop/time/페이위드.png)|734|1|1|0|0|0|
@@ -717,7 +716,6 @@
 |[(주)라임](https://github.com/Zerohertz/awesome-sgy/blob/main/prop/time/주라임.png)|795|0|0|0|0|0|
 |[(주)레디코리아](https://github.com/Zerohertz/awesome-sgy/blob/main/prop/time/주레디코리아.png)|734|0|0|0|0|0|
 |[(주)레전더리스](https://github.com/Zerohertz/awesome-sgy/blob/main/prop/time/주레전더리스.png)|0|0|0|0|0|0|
-|[(주)리눅스데이타시스템](https://github.com/Zerohertz/awesome-sgy/blob/main/prop/time/주리눅스데이타시스템.png)|734|0|0|0|0|0|
 |[(주)머니머신](https://github.com/Zerohertz/awesome-sgy/blob/main/prop/time/주머니머신.png)|0|0|0|0|0|0|
 |[(주)무른모](https://github.com/Zerohertz/awesome-sgy/blob/main/prop/time/주무른모.png)|1063|0|0|0|0|0|
 |[(주)뭉치](https://github.com/Zerohertz/awesome-sgy/blob/main/prop/time/주뭉치.png)|1216|0|0|0|0|0|
@@ -799,7 +797,6 @@
 |[(주)텐핑거스](https://github.com/Zerohertz/awesome-sgy/blob/main/prop/time/주텐핑거스.png)|0|0|0|0|0|0|
 |[(주)텔로스](https://github.com/Zerohertz/awesome-sgy/blob/main/prop/time/주텔로스.png)|233|0|0|0|0|0|
 |[(주)토기](https://github.com/Zerohertz/awesome-sgy/blob/main/prop/time/주토기.png)|734|0|0|0|0|0|
-|[(주)파이퀀트](https://github.com/Zerohertz/awesome-sgy/blob/main/prop/time/주파이퀀트.png)|734|0|0|0|0|0|
 |[(주)퍼즐원스튜디오](https://github.com/Zerohertz/awesome-sgy/blob/main/prop/time/주퍼즐원스튜디오.png)|1216|0|0|0|0|0|
 |[(주)펄핏](https://github.com/Zerohertz/awesome-sgy/blob/main/prop/time/주펄핏.png)|734|0|0|0|0|0|
 |[(주)페르소나](https://github.com/Zerohertz/awesome-sgy/blob/main/prop/time/주페르소나.png)|0|0|0|0|0|0|
@@ -838,6 +835,7 @@
 |[아와소프트](https://github.com/Zerohertz/awesome-sgy/blob/main/prop/time/아와소프트.png)|1216|0|0|0|0|0|
 |[알엔에이애널리틱스㈜](https://github.com/Zerohertz/awesome-sgy/blob/main/prop/time/알엔에이애널리틱스㈜.png)|734|0|0|0|0|0|
 |[에스에스앤씨 주식회사](https://github.com/Zerohertz/awesome-sgy/blob/main/prop/time/에스에스앤씨주식회사.png)|1063|0|0|0|0|0|
+|[원투씨엠 (주)](https://github.com/Zerohertz/awesome-sgy/blob/main/prop/time/원투씨엠주.png)|1216|0|0|0|0|0|
 |[유한회사 라이더대시코리아](https://github.com/Zerohertz/awesome-sgy/blob/main/prop/time/유한회사라이더대시코리아.png)|734|0|0|0|0|0|
 |[이데아텍(주)](https://github.com/Zerohertz/awesome-sgy/blob/main/prop/time/이데아텍주.png)|734|0|0|0|0|0|
 |[인프라소프트(주)](https://github.com/Zerohertz/awesome-sgy/blob/main/prop/time/인프라소프트주.png)|734|0|0|0|0|0|
@@ -845,7 +843,6 @@
 |[조슈아파트너스 주식회사](https://github.com/Zerohertz/awesome-sgy/blob/main/prop/time/조슈아파트너스주식회사.png)|636|0|0|0|0|0|
 |[주식회사 미다웍스](https://github.com/Zerohertz/awesome-sgy/blob/main/prop/time/주식회사미다웍스.png)|795|0|0|0|0|0|
 |[주식회사 바비톡](https://github.com/Zerohertz/awesome-sgy/blob/main/prop/time/주식회사바비톡.png)|734|0|0|0|0|0|
-|[주식회사 아레스](https://github.com/Zerohertz/awesome-sgy/blob/main/prop/time/주식회사아레스.png)|636|0|0|0|0|0|
 |[주식회사 페이지콜](https://github.com/Zerohertz/awesome-sgy/blob/main/prop/time/주식회사페이지콜.png)|734|0|0|0|0|0|
 |[주식회사마인딩](https://github.com/Zerohertz/awesome-sgy/blob/main/prop/time/주식회사마인딩.png)|734|0|0|0|0|0|
 |[주식회사매스아시아](https://github.com/Zerohertz/awesome-sgy/blob/main/prop/time/주식회사매스아시아.png)|734|0|0|0|0|0|

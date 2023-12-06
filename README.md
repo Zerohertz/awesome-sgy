@@ -1,4 +1,4 @@
-<div align=center> <h1> :technologist: 산업기능요원을 위한 데이터 적재 및 시각화 :technologist: </h1> </div>
+<div align=center> <h1> 🧑‍💻 산업기능요원을 위한 데이터 적재 및 시각화 🧑‍💻 </h1> </div>
 
 <div align = "center">
   <a href="https://github.com/sindresorhus/awesome">
@@ -19,7 +19,7 @@
 
 <details open>
 <summary align="center">
-  <h2> :computer: IT 산업기능요원 :computer: </h2>
+  <h2> 💻 IT 산업기능요원 💻 </h2>
 </summary>
   <div align="center">
     <img src="prop/IT/위치.png">
@@ -33,7 +33,7 @@
 
 <details>
 <summary align="center">
-  <h2> :bulb: 전체 산업기능요원 :bulb: </h2>
+  <h2> 💡 전체 산업기능요원 💡 </h2>
 </summary>
   <div align="center">
     <img src="prop/ALL/업종.png">

@@ -1,57 +1,28 @@
-import json
-import os
 from datetime import datetime
 
-import pandas as pd
-import requests
-from src import download_data, vis_data
-
-
-def _send_discord_message(content):
-    data = {"content": content}
-    headers = {"Content-Type": "application/json"}
-    response = requests.post(
-        os.environ.get("WEBHOOK"), data=json.dumps(data), headers=headers
-    )
-    return response
-
+from src import DataLoader, download_data
 
 if __name__ == "__main__":
-    try:
-        # ----- NOTE: [Data Download & Load] ----- #
-        now = datetime.now()
-        ymd = now.strftime("%Y%m%d")
-        file_name = f"병역지정업체검색_{ymd}.xls"
-        download_data(file_name)
-        data = pd.read_excel(file_name)
+    # ----- NOTE: [Data Download & Load] ----- #
+    now = datetime.now()
+    ymd = now.strftime("%Y%m%d")
+    file_name = f"병역지정업체검색_{ymd}.xls"
+    download_data(file_name)
 
-        # ----- NOTE: [전체 산업기능요원] ----- #
-        vd = vis_data(file_name, data, 0)
-        vd.pie_hist("지방청", 3)
-        vd.pie_hist("업종", 3)
-        vd.pie_hist("위치", 2)
-        vd.rank_vis("복무인원")
-        vd.rank_vis("편입인원")
+    # ----- NOTE: [전체 산업기능요원] ----- #
+    dataloader = DataLoader(file_name, 0)
+    dataloader.bar("지방청")
+    dataloader.bar("업종")
+    dataloader.bar("위치")
+    dataloader.rank_vis("복무인원")
+    dataloader.rank_vis("편입인원")
 
-        # ----- NOTE: [IT 산업기능요원] ----- #
-        vd = vis_data(file_name, data, 1)
-        vd.time_tsv()
-        vd.pie_hist("지방청", 3)
-        vd.pie_hist("위치", 2)
-        vd.rank_vis("복무인원")
-        vd.rank_vis("편입인원")
-        vd.rank_readme()
-        vd.plot_time()
-
-    except Exception as e:
-        print(e)
-        _send_discord_message(
-            ":warning:" * 10
-            + "ERROR!!!"
-            + ":warning:" * 10
-            + "\n"
-            + "Awesome SGY\n"
-            + "```\n"
-            + str(e)
-            + "\n```",
-        )
+    # ----- NOTE: [IT 산업기능요원] ----- #
+    dataloader = DataLoader(file_name, 1)
+    dataloader.time_tsv()
+    dataloader.bar("지방청")
+    dataloader.bar("위치")
+    dataloader.rank_vis("복무인원")
+    dataloader.rank_vis("편입인원")
+    dataloader.rank_readme(1000)
+    dataloader.plot_time(1000)

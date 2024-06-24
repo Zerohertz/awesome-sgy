@@ -16,7 +16,6 @@
 
 > [**「병역법 제3조 제1항」**](https://www.law.go.kr/%EB%B2%95%EB%A0%B9/%EB%B3%91%EC%97%AD%EB%B2%95/%EC%A0%9C3%EC%A1%B0) 대한민국 국민인 남성은 헌법과 이 법에서 정하는 바에 따라 병역의무를 성실히 수행하여야 한다.
 
-
 <details open>
 <summary align="center">
   <h2> 💻 IT 산업기능요원 💻 </h2>
@@ -24,8 +23,8 @@
   <div align="center">
     <img src="prop/IT/위치.png">
     <img src="prop/IT/지방청.png">
-    <img src="prop/IT/TOP_30_복무인원.png">
-    <img src="prop/IT/TOP_30_편입인원.png">
+    <img src="prop/IT/top_30_복무인원.png">
+    <img src="prop/IT/top_30_편입인원.png">
     </br>
     <a href="prop/IT/README.md"> 📝 표로 보기 📝 </a>
   </div>
@@ -39,8 +38,8 @@
     <img src="prop/ALL/업종.png">
     <img src="prop/ALL/위치.png">
     <img src="prop/ALL/지방청.png">
-    <img src="prop/ALL/TOP_30_복무인원.png">
-    <img src="prop/ALL/TOP_30_편입인원.png">
+    <img src="prop/ALL/top_30_복무인원.png">
+    <img src="prop/ALL/top_30_편입인원.png">
   </div>
 </details>
 

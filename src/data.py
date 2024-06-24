@@ -37,7 +37,7 @@ class DataLoader:
         DIR_NAME = ["ALL", "MS", "PhD"]
         DIR_NAME = ["ALL", "IT"]
         self.degree = DIR_NAME[degree]
-        self.logger = zz.logging.Logger(f"JMY-{self.degree}")
+        self.logger = zz.logging.Logger(f"SGY-{self.degree}")
         self.dir = os.path.join("prop", DIR_NAME[degree])
         os.makedirs(self.dir, exist_ok=True)
         if degree == 1:

@@ -27,7 +27,7 @@
     <img src="prop/IT/TOP_30_복무인원.png">
     <img src="prop/IT/TOP_30_편입인원.png">
     </br>
-    <a href="https://github.com/Zerohertz/awesome-sgy/blob/main/prop/IT/README.md"> 📝 표로 보기 📝 </a>
+    <a href="prop/IT/README.md"> 📝 표로 보기 📝 </a>
   </div>
 </details>
 

@@ -34,7 +34,6 @@ class DataLoader:
         NOTE: "정보처리", "게임S/W"을 포함하는 산업기능요원을 IT 분야로 정의
         """
         os.makedirs("prop", exist_ok=True)
-        DIR_NAME = ["ALL", "MS", "PhD"]
         DIR_NAME = ["ALL", "IT"]
         self.degree = DIR_NAME[degree]
         self.logger = zz.logging.Logger(f"SGY-{self.degree}")

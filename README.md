@@ -6,7 +6,11 @@
   </a>
   </br>
   <a href="https://github.com/Zerohertz/awesome-sgy">
-    <img src="https://img.shields.io/badge/awesome--sgy-800a0a?style=for-the-badge&logo=Awesome Lists&logoColor=white"/>
+    <img src="https://img.shields.io/badge/awesome--sgy-800a0a?style=for-the-badge&logo=Awesome%20Lists&logoColor=white"/>
+  </a>
+  <br/>
+  <a href="https://www.star-history.com/#Zerohertz/awesome-sgy&Date">
+    <img src="https://api.star-history.com/svg?repos=Zerohertz/awesome-sgy&type=Date"/>
   </a>
 </div>
 

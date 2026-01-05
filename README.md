@@ -52,3 +52,8 @@
 + [awesome-alternative-military-service](https://github.com/sesang06/awesome-alternative-military-service)
 + [Alternative-Military-Service-Guide](https://github.com/Curo-Dev/Alternative-Military-Service-Guide)
 + [Alternative-Military-Service-List](https://github.com/hansolbangul/Alternative-Military-Service-List)
+
+---
+
+> [!NOTE]
+> See also [awesome-jmy](https://github.com/Zerohertz/awesome-jmy)

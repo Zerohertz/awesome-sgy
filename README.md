@@ -1,16 +1,12 @@
 <div align=center> <h1> 🧑‍💻 산업기능요원을 위한 데이터 적재 및 시각화 🧑‍💻 </h1> </div>
 
 <div align = "center">
-  <a href="https://github.com/sindresorhus/awesome">
-    <img src="https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg"/>
-  </a>
-  </br>
-  <a href="https://github.com/Zerohertz/awesome-sgy">
-    <img src="https://img.shields.io/badge/awesome--sgy-800a0a?style=for-the-badge&logo=Awesome%20Lists&logoColor=white"/>
-  </a>
-  <br/>
-  <a href="https://www.star-history.com/#Zerohertz/awesome-sgy&Date">
-    <img src="https://api.star-history.com/svg?repos=Zerohertz/awesome-sgy&type=Date"/>
+  <a href="https://www.star-history.com/?repos=Zerohertz%2Fawesome-sgy&type=date&legend=top-left">
+   <picture>
+     <source media="(prefers-color-scheme: dark)" srcset="https://api.star-history.com/chart?repos=Zerohertz/awesome-sgy&type=date&theme=dark&legend=top-left&sealed_token=WjMUEW3Yw_7LAqGkQ3650NJlu9S1P01-PGnlEsyicCxur-O3a_NMKmjxx5f_xF7o_DfDkC5DP6r098Po0lY-C_u57X_g2i7hgrPAg1NAL-NVhVbcI-dqcw" />
+     <source media="(prefers-color-scheme: light)" srcset="https://api.star-history.com/chart?repos=Zerohertz/awesome-sgy&type=date&legend=top-left&sealed_token=WjMUEW3Yw_7LAqGkQ3650NJlu9S1P01-PGnlEsyicCxur-O3a_NMKmjxx5f_xF7o_DfDkC5DP6r098Po0lY-C_u57X_g2i7hgrPAg1NAL-NVhVbcI-dqcw" />
+     <img alt="Star History Chart" src="https://api.star-history.com/chart?repos=Zerohertz/awesome-sgy&type=date&legend=top-left&sealed_token=WjMUEW3Yw_7LAqGkQ3650NJlu9S1P01-PGnlEsyicCxur-O3a_NMKmjxx5f_xF7o_DfDkC5DP6r098Po0lY-C_u57X_g2i7hgrPAg1NAL-NVhVbcI-dqcw" />
+   </picture>
   </a>
 </div>
 
